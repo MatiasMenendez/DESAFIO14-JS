@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "hierro",
+        "caracteristicas": "Material mas economico en stock ideal para construcciones y obras"
+    },
+    {
+        "nombre": "inoxidable",
+        "caracteristicas": "Material mas vistoso en stock recomendado para estructuras y cartelerias"
+    },
+    {
+        "nombre": "bronce",
+        "caracteristicas": "Material de precio medio muy solicitado para muebles y adornos"
+    }
+]
