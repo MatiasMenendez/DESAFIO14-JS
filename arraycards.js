@@ -1,4 +1,4 @@
-/*Seccion de materiales hecha con Jquery + boton con get a la info de JSON */
+/*Seccion de materiales hecha con Jquery y ajax + boton con get a la info de JSON */
 $('body').prepend('<header><div class="logo"><img src="./multimedia/pardo.png"></div><ul><li><a href="./index.html">INICIO</a></li><li><a href="./presupuestos.html">PRESUPUESTOS</a></li><li><a href="./materiales.html">MATERIALES</a></li></ul></header>');
 $('body').append('<section><button id="botonGet">Informacion de materiales</button></section>');
 
